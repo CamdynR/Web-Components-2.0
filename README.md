@@ -11,3 +11,5 @@ Also inspired from:
 
 My Additions:
   - Storing the information previously stored in attributes on the body element as meta elements in the head
+
+This repo is hosted [here](https://camdynr.github.io/Web-Components-2.0/)
