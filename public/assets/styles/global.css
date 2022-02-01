@@ -1,0 +1,15 @@
+/* global.css */
+
+* {
+  font-family: sans-serif;
+}
+
+form {
+  margin: 40px 0 0 10px;
+}
+
+output {
+  color: green;
+  display: block;
+  margin-top: 15px;
+}
